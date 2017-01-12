@@ -13,7 +13,7 @@ NIA    | User name | Repo | Improvement | Score
 529361 | DUMITRACHE , CATALIN  CONSTANTIN
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680669 | GUIU PÉREZ, ALEJANDRO
-682531 | JUAN CIRIACO, ÁLVARO
+682531 | JUAN CIRIACO, ÁLVARO | [test repo](https://github.com/aJuanCiri/lab6-microservices/tree/test)
 544393 | LAHOZ EGEA, CRISTINA
 622612 | MARTIN SEGURA, SERGIO  
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab6-microservices/tree/test) | |
