@@ -4,7 +4,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-mic
 NIA    | User name | Repo | Improvement | Score
 -------|-----------|------|-------------|--------
 647002 | AGUILAR REQUENA, EDUARDO
-666156 | BAREA LÓPEZ, DANIEL
+666156 | BAREA LÓPEZ, DANIEL | [test repo](https://github.com/dbarelop/lab6-microservices/tree/test)
 666179 | BARRIOS GIL, ÁLVARO
 612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab6-microservices/tree/test)
 683326 | BINTANED BASA, JESÚS
