@@ -28,7 +28,7 @@ NIA    | User name | Repo | Improvement | Score
 559207 | RUEDA MACÍAS, DANIEL | [test repo](https://github.com/danirueda/lab6-microservices/tree/test)
 610344 | SALUEÑA SEDILES, ASIER 
 680182 | SANZ ALCAINE, JORGE | [test repo](https://github.com/sanz1995/lab6-microservices/tree/test) | |
-534521 | SANZ VIDAL, AITOR 
+534521 | SANZ VIDAL, AITOR | [test repo](https://github.com/aitorsanz/lab6-microservices/tree/test)
 618051 | TOLON MARTÍN, CARLOS JAVIER | [test repo](https://github.com/ctolon22/lab6-microservices/tree/test)
 643821 | VELA GARCÍA, JUAN
 679609 | VIÑUALES SÁNCHEZ, PABLO
