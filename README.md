@@ -10,7 +10,7 @@ NIA    | User name | Repo | Improvement | Score
 683326 | BINTANED BASA, JESÚS | [test repo](https://github.com/jebiba95/lab6-microservices/tree/test)
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS
-529361 | DUMITRACHE , CATALIN  CONSTANTIN
+529361 | DUMITRACHE , CATALIN  CONSTANTIN | [test repo](https://github.com/catalindumitrache76/lab6-microservices/tree/test) | |
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680669 | GUIU PÉREZ, ALEJANDRO
 682531 | JUAN CIRIACO, ÁLVARO | [test repo](https://github.com/aJuanCiri/lab6-microservices/tree/test)
