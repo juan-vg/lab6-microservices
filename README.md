@@ -30,5 +30,5 @@ NIA    | User name | Repo | Improvement | Score
 680182 | SANZ ALCAINE, JORGE | [test repo](https://github.com/sanz1995/lab6-microservices/tree/test) | |
 534521 | SANZ VIDAL, AITOR 
 618051 | TOLON MARTÍN, CARLOS JAVIER | [test repo](https://github.com/ctolon22/lab6-microservices/tree/test)
-643821 | VELA GARCÍA, JUAN
+643821 | VELA GARCÍA, JUAN | [test repo](https://github.com/juan-vg/lab6-microservices/tree/test) | |
 679609 | VIÑUALES SÁNCHEZ, PABLO
