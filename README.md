@@ -34,4 +34,4 @@ NIA    | User name | Repo | Improvement | Score
 534521 | SANZ VIDAL, AITOR | [test repo](https://github.com/aitorsanz/lab6-microservices/tree/test)
 618051 | TOLON MARTÍN, CARLOS JAVIER | [test repo](https://github.com/ctolon22/lab6-microservices/tree/test)
 643821 | VELA GARCÍA, JUAN
-679609 | VIÑUALES SÁNCHEZ, PABLO
+679609 | VIÑUALES SÁNCHEZ, PABLO | [test repo](https://github.com/strummerTFIU/lab6-microservices/tree/test)
