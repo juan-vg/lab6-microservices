@@ -22,7 +22,7 @@ NIA    | User name | Repo | Improvement | Score
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [test repo](https://github.com/luisemz/lab6-microservices/tree/test) | |
 650448 | MURILLO MAGDALENA, JAVIER  | [test repo](https://github.com/javmurillo/lab6-microservices/tree/test)
 453948 | NAVARRO CLARAS, MARIO
-647973 | PERALTA MARTÍNEZ, SANTIAGO
+647973 | PERALTA MARTÍNEZ, SANTIAGO | [test_repo](https://github.com/SantiagoPeralta/lab6-microservices/tree/test) | | |
 683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab6-microservices/tree/test)
 686329 | ROIG JIMENEZ, ANA | [test repo](https://github.com/anicacortes/lab6-microservices/tree/test)
 559207 | RUEDA MACÍAS, DANIEL | [test repo](https://github.com/danirueda/lab6-microservices/tree/test)
